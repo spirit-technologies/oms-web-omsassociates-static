@@ -1,0 +1,29 @@
+.wpml-ls-menu-item .wpml-ls-flag {
+  display: inline;
+  vertical-align: baseline; }
+
+.wpml-ls-menu-item .wpml-ls-flag + span {
+  margin-left: .3em; }
+  .rtl .wpml-ls-menu-item .wpml-ls-flag + span {
+    margin-left: 0;
+    margin-right: .3em; }
+
+/*
+     FILE ARCHIVED ON 20:15:59 Nov 16, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:51:24 Mar 21, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.092
+  exclusion.robots.policy: 0.082
+  cdx.remote: 0.087
+  esindex: 0.009
+  LoadShardBlock: 189.574 (6)
+  PetaboxLoader3.resolve: 146.68 (2)
+  PetaboxLoader3.datanode: 145.249 (7)
+  load_resource: 137.544
+*/
